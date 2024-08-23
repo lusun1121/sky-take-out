@@ -13,9 +13,16 @@ sky:
     password: lusun8825
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tPeFLzsPPT8gG3LPW64
-    access-key-secret: U6k1brOZ8gaOIXv3nXbulGTUzy6Pd7
+    access-key-id: HahahahahaLTAI5tPeFLzsPPT8gG3LPW64
+    access-key-secret: HahahahahahaU6k1brOZ8gaOIXv3nXbulGTUzy6Pd7
     bucket-name: sky-itcast
   wechat:
     appid: wx575a182fac685dc3
     secret: 5acad3e8c22ad00d8bacbd822e577a65
+    mchid: Hahahaha
+    mch-serial-no: hahahahaha
+    private-key-file-path: hahahahaha
+    api-v3-key: hahahahahahaha
+    we-chat-pay-cert-file-path: hahahahaha
+    notify-url: hahahahaha
+    refund-notify-url: hahahahahaha
